@@ -2,3 +2,26 @@ body{
     background-color: aliceblue;
     font-family: 'Poppins', sans-serif;
 }
+.color-red{
+    color: rgb(226, 24, 24);
+}
+
+section{
+    display: flex;
+}
+.wight-half{
+    width: 50%;
+}
+.wight-half img{
+    width: 80%;
+    height: 550px;
+    padding-left: 20px;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+}

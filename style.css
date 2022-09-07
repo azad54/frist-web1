@@ -6,9 +6,10 @@ body{
 .color-red{
     color: rgb(226, 24, 24);
 }
-
-section{
+/* display:flex mane duita div ba kisu k soman vabe vag kore deoya */
+.flexible-container{
     display: flex;
+    padding-bottom: 10px;
 }
 .wight-half{
     width: 50%;
@@ -31,4 +32,12 @@ section{
     background-image: url(img/gb11.png);
     background-repeat: no-repeat;
     background-size: 50px;
+}
+/* midle-banner ar background dibo soto kore right side a */
+.midle-banner{
+    background-image: url(img/gb11.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+
 }

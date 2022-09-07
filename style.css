@@ -41,3 +41,21 @@ body{
 
 
 }
+
+/* experiance area */
+.experiance-area{
+    background-image: url(img/gb11.png);
+    background-repeat: no-repeat;
+    background-position: left;
+
+}
+.experiance-item{
+    width: 45%;
+    margin-left: 20px;
+    padding-left: 30px;
+    font-size: 40px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px red;
+
+
+}

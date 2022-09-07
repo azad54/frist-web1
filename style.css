@@ -59,3 +59,17 @@ body{
 
 
 }
+
+
+
+#web-dev-experiance{
+
+    border-left: 15px solid;
+    border-image: linear-gradient(blue,red);
+    border-image-slice: 1;
+}
+#full-stack-experiance{
+    border-left: 15px solid;
+    border-image: linear-gradient(red,blue);
+    border-image-slice: 1;
+}
